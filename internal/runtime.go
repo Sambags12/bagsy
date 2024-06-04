@@ -7,3 +7,4 @@
 // 2024-06-04T08:28:00 fix: agent risk parameter
 // 2024-06-04T13:36:00 feat: market resolver
 // 2024-06-04T13:35:00 fix: settlement race condition
+// 2024-06-04T19:41:00 feat: position sizing
