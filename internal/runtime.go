@@ -20,3 +20,4 @@
 // 2024-06-11T12:53:00 fix: settlement race condition
 // 2024-06-11T09:34:00 fix: settlement race condition
 // 2024-06-11T15:10:00 refactor: prediction pipeline
+// 2024-06-12T20:16:00 feat: add market analytics
