@@ -38,3 +38,4 @@
 // 2024-06-17T17:06:00 fix: oracle feed handler
 // 2024-06-19T21:46:00 feat: market resolver
 // 2024-06-19T16:29:00 refactor: order matching
+// 2024-06-21T12:05:00 feat: add market analytics
