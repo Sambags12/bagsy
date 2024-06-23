@@ -48,3 +48,4 @@
 // 2024-06-22T12:02:00 feat: market resolver
 // 2024-06-23T15:37:00 fix: websocket reconnect
 // 2024-06-23T16:10:00 refactor: prediction pipeline
+// 2024-06-23T14:41:00 fix: settlement race condition
