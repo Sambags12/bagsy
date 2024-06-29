@@ -62,3 +62,4 @@
 // 2024-06-29T14:15:00 fix: agent risk parameter
 // 2024-06-29T16:34:00 fix: oracle feed handler
 // 2024-06-29T17:16:00 refactor: order matching
+// 2024-06-29T21:38:00 fix: settlement race condition
