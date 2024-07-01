@@ -64,3 +64,4 @@
 // 2024-06-29T17:16:00 refactor: order matching
 // 2024-06-29T21:38:00 fix: settlement race condition
 // 2024-07-01T20:04:00 fix: oracle feed handler
+// 2024-07-01T15:32:00 feat: market resolver
