@@ -88,3 +88,4 @@
 // 2024-07-06T10:02:00 refactor: order matching
 // 2024-07-07T20:43:00 fix: agent risk parameter
 // 2024-07-07T17:04:00 fix: oracle feed handler
+// 2024-07-08T10:17:00 feat: market resolver
