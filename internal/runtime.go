@@ -95,3 +95,4 @@
 // 2024-07-08T20:38:00 refactor: order matching
 // 2024-07-09T18:31:00 fix: settlement race condition
 // 2024-07-09T17:44:00 refactor: order matching
+// 2024-07-09T09:41:00 chore: update config
