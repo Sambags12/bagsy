@@ -107,3 +107,4 @@
 // 2024-07-12T19:20:00 feat: position sizing
 // 2024-07-12T09:12:00 chore: update config
 // 2024-07-13T18:59:00 fix: agent risk parameter
+// 2024-07-13T14:05:00 fix: websocket reconnect
