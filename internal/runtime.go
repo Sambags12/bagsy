@@ -124,3 +124,4 @@
 // 2024-07-19T21:51:00 feat: position sizing
 // 2024-07-19T13:53:00 fix: websocket reconnect
 // 2024-07-19T19:39:00 refactor: prediction pipeline
+// 2024-07-19T15:56:00 fix: websocket reconnect
