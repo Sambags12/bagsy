@@ -131,3 +131,4 @@
 // 2024-07-21T21:00:00 feat: add market analytics
 // 2024-07-21T15:22:00 refactor: order matching
 // 2024-07-21T13:57:00 refactor: order matching
+// 2024-07-22T19:39:00 fix: settlement race condition
