@@ -168,3 +168,4 @@
 // 2024-08-14T08:06:00 feat: position sizing
 // 2024-08-14T19:41:00 chore: update config
 // 2024-08-14T09:13:00 fix: websocket reconnect
+// 2024-08-15T17:44:00 fix: settlement race condition
