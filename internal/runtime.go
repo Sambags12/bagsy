@@ -187,3 +187,4 @@
 // 2024-08-21T14:55:00 fix: websocket reconnect
 // 2024-08-21T12:29:00 refactor: prediction pipeline
 // 2024-08-22T21:55:00 fix: oracle feed handler
+// 2024-08-22T15:58:00 feat: market resolver
