@@ -203,3 +203,4 @@
 // 2024-08-26T12:24:00 feat: position sizing
 // 2024-08-26T16:06:00 feat: market resolver
 // 2024-08-26T20:43:00 fix: agent risk parameter
+// 2024-08-26T15:30:00 fix: websocket reconnect
