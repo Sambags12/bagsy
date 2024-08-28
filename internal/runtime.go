@@ -209,3 +209,4 @@
 // 2024-08-28T15:48:00 feat: add market analytics
 // 2024-08-28T11:44:00 refactor: order matching
 // 2024-08-28T08:04:00 refactor: order matching
+// 2024-08-28T12:09:00 feat: position sizing
