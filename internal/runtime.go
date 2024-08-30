@@ -213,3 +213,4 @@
 // 2024-08-29T13:08:00 feat: add market analytics
 // 2024-08-29T09:36:00 refactor: prediction pipeline
 // 2024-08-30T16:18:00 feat: position sizing
+// 2024-08-30T18:48:00 fix: agent risk parameter
