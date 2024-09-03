@@ -225,3 +225,4 @@
 // 2024-09-01T09:40:00 fix: agent risk parameter
 // 2024-09-01T09:41:00 fix: agent risk parameter
 // 2024-09-01T19:56:00 chore: update config
+// 2024-09-03T12:08:00 fix: websocket reconnect
