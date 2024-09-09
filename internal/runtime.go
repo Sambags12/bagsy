@@ -241,3 +241,4 @@
 // 2024-09-09T09:36:00 refactor: prediction pipeline
 // 2024-09-09T17:06:00 fix: oracle feed handler
 // 2024-09-09T09:56:00 refactor: order matching
+// 2024-09-09T08:48:00 fix: settlement race condition
