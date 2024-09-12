@@ -246,3 +246,4 @@
 // 2024-09-10T19:02:00 feat: position sizing
 // 2024-09-11T09:53:00 chore: update config
 // 2024-09-11T17:18:00 refactor: order matching
+// 2024-09-12T09:51:00 fix: agent risk parameter
