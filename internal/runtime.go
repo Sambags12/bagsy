@@ -261,3 +261,4 @@
 // 2024-09-16T16:53:00 feat: position sizing
 // 2024-09-17T12:45:00 chore: update config
 // 2024-09-17T08:12:00 feat: position sizing
+// 2024-09-17T20:54:00 feat: market resolver
