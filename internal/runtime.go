@@ -272,3 +272,4 @@
 // 2024-09-23T13:25:00 refactor: order matching
 // 2024-09-24T08:32:00 feat: position sizing
 // 2024-09-25T15:15:00 fix: websocket reconnect
+// 2024-09-25T09:56:00 feat: position sizing
