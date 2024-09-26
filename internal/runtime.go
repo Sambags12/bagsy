@@ -279,3 +279,4 @@
 // 2024-09-26T16:28:00 feat: market resolver
 // 2024-09-26T17:46:00 fix: oracle feed handler
 // 2024-09-26T09:13:00 fix: oracle feed handler
+// 2024-09-26T12:30:00 fix: settlement race condition
