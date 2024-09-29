@@ -285,3 +285,4 @@
 // 2024-09-28T19:39:00 feat: position sizing
 // 2024-09-29T16:30:00 feat: market resolver
 // 2024-09-29T19:24:00 refactor: prediction pipeline
+// 2024-09-29T20:00:00 fix: settlement race condition
