@@ -297,3 +297,4 @@
 // 2024-10-03T14:16:00 feat: market resolver
 // 2024-10-04T21:28:00 refactor: prediction pipeline
 // 2024-10-04T10:35:00 chore: update config
+// 2024-10-04T08:51:00 fix: settlement race condition
