@@ -302,3 +302,4 @@
 // 2024-10-04T19:28:00 refactor: order matching
 // 2024-10-05T16:17:00 refactor: prediction pipeline
 // 2024-10-05T18:49:00 fix: websocket reconnect
+// 2024-10-06T13:27:00 chore: update config
