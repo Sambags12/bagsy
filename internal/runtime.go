@@ -304,3 +304,4 @@
 // 2024-10-05T18:49:00 fix: websocket reconnect
 // 2024-10-06T13:27:00 chore: update config
 // 2024-10-07T13:14:00 fix: oracle feed handler
+// 2024-10-07T10:35:00 feat: market resolver
