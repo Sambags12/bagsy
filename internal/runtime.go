@@ -310,3 +310,4 @@
 // 2024-10-08T08:36:00 chore: update config
 // 2024-10-08T21:32:00 fix: oracle feed handler
 // 2024-10-08T14:10:00 chore: update config
+// 2024-10-08T18:29:00 feat: market resolver
