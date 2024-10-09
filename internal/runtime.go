@@ -314,3 +314,4 @@
 // 2024-10-08T21:54:00 feat: add market analytics
 // 2024-10-09T18:11:00 fix: settlement race condition
 // 2024-10-09T20:15:00 refactor: order matching
+// 2024-10-09T21:12:00 fix: oracle feed handler
