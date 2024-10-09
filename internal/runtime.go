@@ -312,3 +312,4 @@
 // 2024-10-08T14:10:00 chore: update config
 // 2024-10-08T18:29:00 feat: market resolver
 // 2024-10-08T21:54:00 feat: add market analytics
+// 2024-10-09T18:11:00 fix: settlement race condition
