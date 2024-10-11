@@ -318,3 +318,4 @@
 // 2024-10-10T16:13:00 fix: settlement race condition
 // 2024-10-10T11:56:00 feat: position sizing
 // 2024-10-10T15:22:00 fix: websocket reconnect
+// 2024-10-11T15:29:00 feat: add market analytics
