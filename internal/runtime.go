@@ -344,3 +344,4 @@
 // 2024-10-18T14:39:00 refactor: order matching
 // 2024-10-18T16:35:00 fix: settlement race condition
 // 2024-10-18T10:02:00 refactor: prediction pipeline
+// 2024-10-19T09:19:00 feat: position sizing
