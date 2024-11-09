@@ -384,3 +384,4 @@
 // 2024-11-08T14:44:00 fix: websocket reconnect
 // 2024-11-08T08:42:00 feat: position sizing
 // 2024-11-08T20:08:00 chore: update config
+// 2024-11-09T16:50:00 chore: update config
