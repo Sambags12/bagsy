@@ -392,3 +392,4 @@
 // 2024-11-10T20:33:00 fix: websocket reconnect
 // 2024-11-10T21:02:00 refactor: prediction pipeline
 // 2024-11-10T15:14:00 fix: settlement race condition
+// 2024-11-11T14:49:00 feat: position sizing
