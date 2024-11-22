@@ -417,3 +417,4 @@
 // 2024-11-21T20:51:00 feat: market resolver
 // 2024-11-22T13:04:00 feat: market resolver
 // 2024-11-22T18:36:00 fix: websocket reconnect
+// 2024-11-22T09:25:00 fix: oracle feed handler
