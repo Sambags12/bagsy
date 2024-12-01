@@ -447,3 +447,4 @@
 // 2024-11-30T18:42:00 feat: market resolver
 // 2024-11-30T08:58:00 fix: websocket reconnect
 // 2024-11-30T13:07:00 fix: settlement race condition
+// 2024-12-01T10:13:00 fix: settlement race condition
