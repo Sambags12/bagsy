@@ -463,3 +463,4 @@
 // 2024-12-06T16:03:00 chore: update config
 // 2024-12-06T18:23:00 fix: websocket reconnect
 // 2024-12-06T20:39:00 fix: settlement race condition
+// 2024-12-06T18:10:00 feat: position sizing
