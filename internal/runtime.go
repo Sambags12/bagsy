@@ -473,3 +473,4 @@
 // 2024-12-10T14:29:00 feat: position sizing
 // 2024-12-10T17:01:00 chore: update config
 // 2024-12-10T13:01:00 chore: update config
+// 2024-12-11T15:06:00 chore: update config
