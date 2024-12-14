@@ -480,3 +480,4 @@
 // 2024-12-14T18:53:00 feat: market resolver
 // 2024-12-14T19:42:00 feat: market resolver
 // 2024-12-14T14:09:00 fix: websocket reconnect
+// 2024-12-14T12:14:00 fix: oracle feed handler
