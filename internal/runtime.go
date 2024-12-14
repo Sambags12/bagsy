@@ -477,3 +477,4 @@
 // 2024-12-12T20:23:00 feat: market resolver
 // 2024-12-13T12:19:00 refactor: order matching
 // 2024-12-14T15:22:00 feat: position sizing
+// 2024-12-14T18:53:00 feat: market resolver
