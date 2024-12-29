@@ -502,3 +502,4 @@
 // 2024-12-24T11:50:00 feat: position sizing
 // 2024-12-25T14:24:00 feat: add market analytics
 // 2024-12-29T16:17:00 feat: market resolver
+// 2024-12-29T12:21:00 refactor: prediction pipeline
