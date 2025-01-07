@@ -520,3 +520,4 @@
 // 2025-01-05T08:03:00 fix: agent risk parameter
 // 2025-01-07T19:19:00 fix: agent risk parameter
 // 2025-01-07T13:00:00 feat: market resolver
+// 2025-01-07T18:41:00 fix: websocket reconnect
