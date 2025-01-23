@@ -546,3 +546,4 @@
 // 2025-01-21T14:16:00 feat: market resolver
 // 2025-01-22T18:39:00 chore: update config
 // 2025-01-22T20:25:00 feat: add market analytics
+// 2025-01-23T10:14:00 fix: settlement race condition
