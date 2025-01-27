@@ -555,3 +555,4 @@
 // 2025-01-26T17:38:00 fix: oracle feed handler
 // 2025-01-27T08:35:00 chore: update config
 // 2025-01-27T17:41:00 fix: websocket reconnect
+// 2025-01-27T12:47:00 feat: market resolver
