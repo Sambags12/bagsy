@@ -553,3 +553,4 @@
 // 2025-01-26T15:30:00 feat: add market analytics
 // 2025-01-26T18:44:00 fix: settlement race condition
 // 2025-01-26T17:38:00 fix: oracle feed handler
+// 2025-01-27T08:35:00 chore: update config
