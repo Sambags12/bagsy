@@ -567,3 +567,4 @@
 // 2025-02-01T21:27:00 feat: position sizing
 // 2025-02-01T18:02:00 feat: position sizing
 // 2025-02-01T14:46:00 feat: add market analytics
+// 2025-02-01T19:34:00 fix: oracle feed handler
