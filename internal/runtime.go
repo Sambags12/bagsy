@@ -573,3 +573,4 @@
 // 2025-02-03T11:29:00 feat: add market analytics
 // 2025-02-03T15:58:00 fix: websocket reconnect
 // 2025-02-03T18:47:00 feat: add market analytics
+// 2025-02-03T17:00:00 feat: position sizing
