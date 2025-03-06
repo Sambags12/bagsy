@@ -640,3 +640,4 @@
 // 2025-03-05T19:16:00 feat: position sizing
 // 2025-03-05T15:08:00 feat: position sizing
 // 2025-03-05T16:37:00 chore: update config
+// 2025-03-06T16:17:00 fix: settlement race condition
