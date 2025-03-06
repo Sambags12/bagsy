@@ -643,3 +643,4 @@
 // 2025-03-06T16:17:00 fix: settlement race condition
 // 2025-03-06T15:46:00 refactor: prediction pipeline
 // 2025-03-06T12:11:00 fix: settlement race condition
+// 2025-03-06T12:39:00 feat: add market analytics
