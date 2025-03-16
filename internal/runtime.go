@@ -668,3 +668,4 @@
 // 2025-03-14T08:39:00 feat: market resolver
 // 2025-03-15T16:01:00 refactor: order matching
 // 2025-03-15T13:34:00 fix: agent risk parameter
+// 2025-03-16T18:37:00 fix: websocket reconnect
