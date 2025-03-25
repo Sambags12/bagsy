@@ -699,3 +699,4 @@
 // 2025-03-24T19:59:00 fix: settlement race condition
 // 2025-03-25T16:32:00 feat: position sizing
 // 2025-03-25T19:28:00 feat: market resolver
+// 2025-03-25T12:47:00 refactor: order matching
