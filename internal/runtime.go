@@ -701,3 +701,4 @@
 // 2025-03-25T19:28:00 feat: market resolver
 // 2025-03-25T12:47:00 refactor: order matching
 // 2025-03-26T10:40:00 chore: update config
+// 2025-03-26T14:03:00 fix: websocket reconnect
