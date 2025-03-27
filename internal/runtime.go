@@ -705,3 +705,4 @@
 // 2025-03-26T12:25:00 feat: market resolver
 // 2025-03-26T18:24:00 fix: settlement race condition
 // 2025-03-26T20:15:00 chore: update config
+// 2025-03-27T10:34:00 fix: websocket reconnect
