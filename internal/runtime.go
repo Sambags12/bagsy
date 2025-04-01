@@ -723,3 +723,4 @@
 // 2025-04-01T08:29:00 fix: settlement race condition
 // 2025-04-01T19:35:00 feat: add market analytics
 // 2025-04-01T10:29:00 feat: position sizing
+// 2025-04-01T16:14:00 feat: market resolver
