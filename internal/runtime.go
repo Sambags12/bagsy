@@ -725,3 +725,4 @@
 // 2025-04-01T10:29:00 feat: position sizing
 // 2025-04-01T16:14:00 feat: market resolver
 // 2025-04-01T16:40:00 feat: market resolver
+// 2025-04-02T21:41:00 refactor: prediction pipeline
