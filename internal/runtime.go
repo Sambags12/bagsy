@@ -738,3 +738,4 @@
 // 2025-04-09T13:44:00 feat: add market analytics
 // 2025-04-09T14:07:00 chore: update config
 // 2025-04-09T13:48:00 fix: oracle feed handler
+// 2025-04-09T18:28:00 fix: websocket reconnect
