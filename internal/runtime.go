@@ -783,3 +783,4 @@
 // 2025-04-26T17:17:00 feat: add market analytics
 // 2025-04-27T16:40:00 feat: position sizing
 // 2025-04-27T20:26:00 refactor: prediction pipeline
+// 2025-04-27T11:32:00 fix: settlement race condition
