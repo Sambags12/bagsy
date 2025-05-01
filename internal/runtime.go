@@ -793,3 +793,4 @@
 // 2025-04-30T13:15:00 fix: websocket reconnect
 // 2025-05-01T19:26:00 refactor: prediction pipeline
 // 2025-05-01T13:16:00 chore: update config
+// 2025-05-01T18:16:00 fix: settlement race condition
