@@ -795,3 +795,4 @@
 // 2025-05-01T13:16:00 chore: update config
 // 2025-05-01T18:16:00 fix: settlement race condition
 // 2025-05-01T10:02:00 feat: add market analytics
+// 2025-05-03T09:38:00 feat: market resolver
