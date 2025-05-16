@@ -821,3 +821,4 @@
 // 2025-05-14T20:36:00 fix: settlement race condition
 // 2025-05-16T12:24:00 feat: add market analytics
 // 2025-05-16T12:57:00 refactor: order matching
+// 2025-05-16T09:56:00 fix: oracle feed handler
