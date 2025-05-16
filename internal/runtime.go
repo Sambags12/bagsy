@@ -820,3 +820,4 @@
 // 2025-05-13T10:04:00 fix: websocket reconnect
 // 2025-05-14T20:36:00 fix: settlement race condition
 // 2025-05-16T12:24:00 feat: add market analytics
+// 2025-05-16T12:57:00 refactor: order matching
