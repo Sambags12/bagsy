@@ -832,3 +832,4 @@
 // 2025-05-21T14:03:00 fix: websocket reconnect
 // 2025-05-21T08:45:00 chore: update config
 // 2025-05-21T11:03:00 refactor: order matching
+// 2025-05-22T13:24:00 feat: market resolver
