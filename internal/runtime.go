@@ -841,3 +841,4 @@
 // 2025-05-26T20:32:00 fix: agent risk parameter
 // 2025-05-26T21:39:00 fix: oracle feed handler
 // 2025-05-29T15:19:00 feat: add market analytics
+// 2025-05-29T09:53:00 feat: position sizing
