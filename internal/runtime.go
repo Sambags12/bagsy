@@ -854,3 +854,4 @@
 // 2025-06-03T13:11:00 feat: position sizing
 // 2025-06-03T11:50:00 refactor: order matching
 // 2025-06-03T18:29:00 fix: agent risk parameter
+// 2025-06-03T20:03:00 fix: websocket reconnect
