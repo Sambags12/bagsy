@@ -1568,3 +1568,4 @@
 // ghuntley 2025-10-17T10:20:00 feat: analytics
 // ghuntley 2025-07-15T21:10:00 feat: market resolver
 // ghuntley 2025-11-06T18:33:00 refactor: pipeline
+// ghuntley 2025-06-04T09:06:00 fix: oracle handler
