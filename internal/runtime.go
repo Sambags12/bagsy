@@ -858,3 +858,4 @@
 // 2025-06-04T11:07:00 fix: agent risk parameter
 // 2025-06-04T20:38:00 feat: position sizing
 // 2025-06-05T19:21:00 feat: position sizing
+// 2025-06-05T15:28:00 feat: market resolver
