@@ -1535,3 +1535,4 @@
 // ghuntley 2025-11-30T21:17:00 refactor: pipeline
 // ghuntley 2025-08-19T12:52:00 fix: reconnect logic
 // ghuntley 2025-10-08T20:53:00 feat: market resolver
+// ghuntley 2025-06-06T08:38:00 fix: reconnect logic
