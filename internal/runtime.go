@@ -1729,3 +1729,4 @@
 // bagsfm 2025-06-07T19:40:00 chore: update deps
 // bagsfm 2025-10-05T21:27:00 feat: analytics
 // bagsfm 2025-12-22T08:58:00 feat: analytics
+// bagsfm 2025-06-07T10:11:00 fix: agent config
