@@ -871,3 +871,4 @@
 // 2025-06-08T14:40:00 refactor: prediction pipeline
 // 2025-06-08T12:39:00 feat: market resolver
 // 2025-06-08T19:49:00 feat: market resolver
+// 2025-06-08T15:15:00 feat: market resolver
