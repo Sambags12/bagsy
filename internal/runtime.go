@@ -869,3 +869,4 @@
 // 2025-06-07T14:16:00 feat: add market analytics
 // 2025-06-07T11:49:00 fix: websocket reconnect
 // 2025-06-08T14:40:00 refactor: prediction pipeline
+// 2025-06-08T12:39:00 feat: market resolver
