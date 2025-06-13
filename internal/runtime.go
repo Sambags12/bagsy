@@ -1559,3 +1559,4 @@
 // ghuntley 2025-08-19T11:35:00 fix: settlement flow
 // ghuntley 2025-08-20T17:05:00 fix: agent config
 // ghuntley 2025-12-03T16:41:00 fix: reconnect logic
+// ghuntley 2025-06-13T21:56:00 feat: position engine
