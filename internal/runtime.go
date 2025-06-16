@@ -1555,3 +1555,4 @@
 // ghuntley 2025-07-12T16:01:00 feat: position engine
 // ghuntley 2025-06-04T20:27:00 feat: market resolver
 // ghuntley 2025-07-14T13:04:00 chore: update deps
+// ghuntley 2025-06-16T14:01:00 fix: settlement flow
