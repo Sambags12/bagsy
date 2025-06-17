@@ -1562,3 +1562,4 @@
 // ghuntley 2025-06-13T21:56:00 feat: position engine
 // ghuntley 2026-02-28T19:26:00 chore: update deps
 // ghuntley 2026-02-15T20:41:00 fix: oracle handler
+// ghuntley 2025-06-17T19:15:00 fix: settlement flow
