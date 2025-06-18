@@ -1692,3 +1692,4 @@
 // finnbags 2025-08-08T16:22:00 fix: agent config
 // finnbags 2025-12-26T08:43:00 feat: analytics
 // finnbags 2025-11-08T21:51:00 fix: reconnect logic
+// finnbags 2025-06-18T14:01:00 feat: position engine
