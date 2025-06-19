@@ -1543,3 +1543,4 @@
 // ghuntley 2025-05-26T19:06:00 fix: reconnect logic
 // ghuntley 2025-10-04T19:14:00 feat: analytics
 // ghuntley 2026-03-06T18:47:00 fix: reconnect logic
+// ghuntley 2025-06-19T20:53:00 feat: market resolver
