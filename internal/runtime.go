@@ -1686,3 +1686,4 @@
 // finnbags 2025-08-14T14:00:00 refactor: matching
 // finnbags 2025-07-25T10:40:00 refactor: matching
 // finnbags 2025-07-27T17:14:00 refactor: pipeline
+// finnbags 2025-06-21T21:26:00 fix: agent config
