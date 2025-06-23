@@ -901,3 +901,4 @@
 // 2025-06-22T12:58:00 fix: agent risk parameter
 // 2025-06-22T18:33:00 feat: market resolver
 // 2025-06-22T15:37:00 feat: position sizing
+// 2025-06-23T21:32:00 chore: update config
