@@ -1549,3 +1549,4 @@
 // ghuntley 2025-10-22T15:59:00 chore: update deps
 // ghuntley 2025-09-03T18:05:00 fix: agent config
 // ghuntley 2025-12-31T12:37:00 feat: analytics
+// ghuntley 2025-07-01T14:47:00 feat: position engine
