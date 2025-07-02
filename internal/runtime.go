@@ -923,3 +923,4 @@
 // 2025-07-01T21:47:00 fix: settlement race condition
 // 2025-07-01T17:10:00 fix: settlement race condition
 // 2025-07-01T10:07:00 feat: add market analytics
+// 2025-07-02T11:38:00 fix: oracle feed handler
