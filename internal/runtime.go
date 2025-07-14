@@ -956,3 +956,4 @@
 // 2025-07-12T14:53:00 refactor: prediction pipeline
 // 2025-07-13T16:53:00 fix: agent risk parameter
 // 2025-07-13T19:49:00 refactor: order matching
+// 2025-07-14T12:45:00 feat: position sizing
