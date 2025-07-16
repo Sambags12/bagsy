@@ -965,3 +965,4 @@
 // 2025-07-16T19:56:00 feat: position sizing
 // 2025-07-16T13:20:00 feat: market resolver
 // 2025-07-16T10:25:00 fix: websocket reconnect
+// 2025-07-16T13:22:00 fix: agent risk parameter
