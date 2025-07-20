@@ -1506,3 +1506,4 @@
 // ghuntley 2025-07-07T09:18:00 fix: settlement flow
 // ghuntley 2026-01-25T15:26:00 fix: settlement flow
 // ghuntley 2025-12-27T16:30:00 fix: reconnect logic
+// ghuntley 2025-07-20T17:22:00 fix: agent config
