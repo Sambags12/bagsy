@@ -979,3 +979,4 @@
 // 2025-07-20T13:35:00 refactor: order matching
 // 2025-07-21T19:58:00 fix: settlement race condition
 // 2025-07-24T21:58:00 fix: settlement race condition
+// 2025-07-24T14:22:00 feat: position sizing
