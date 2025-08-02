@@ -1524,3 +1524,4 @@
 // ghuntley 2026-02-15T14:54:00 fix: settlement flow
 // ghuntley 2026-01-01T16:49:00 refactor: pipeline
 // ghuntley 2025-11-10T09:32:00 feat: market resolver
+// ghuntley 2025-08-02T18:35:00 fix: oracle handler
