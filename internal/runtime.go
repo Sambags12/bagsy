@@ -993,3 +993,4 @@
 // 2025-08-04T16:41:00 feat: position sizing
 // 2025-08-05T21:16:00 fix: agent risk parameter
 // 2025-08-07T08:59:00 refactor: prediction pipeline
+// 2025-08-07T09:30:00 chore: update config
