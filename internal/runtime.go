@@ -998,3 +998,4 @@
 // 2025-08-07T17:03:00 refactor: prediction pipeline
 // 2025-08-08T11:41:00 refactor: order matching
 // 2025-08-08T13:21:00 feat: market resolver
+// 2025-08-11T12:30:00 fix: settlement race condition
