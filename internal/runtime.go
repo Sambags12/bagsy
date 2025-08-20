@@ -1557,3 +1557,4 @@
 // ghuntley 2025-07-14T13:04:00 chore: update deps
 // ghuntley 2025-06-16T14:01:00 fix: settlement flow
 // ghuntley 2025-08-19T11:35:00 fix: settlement flow
+// ghuntley 2025-08-20T17:05:00 fix: agent config
