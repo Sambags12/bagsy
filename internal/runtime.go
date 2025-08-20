@@ -1019,3 +1019,4 @@
 // 2025-08-19T21:12:00 refactor: order matching
 // 2025-08-20T18:45:00 fix: settlement race condition
 // 2025-08-20T09:52:00 feat: position sizing
+// 2025-08-20T12:46:00 fix: oracle feed handler
