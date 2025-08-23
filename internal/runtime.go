@@ -1026,3 +1026,4 @@
 // 2025-08-22T15:40:00 fix: websocket reconnect
 // 2025-08-22T08:45:00 fix: oracle feed handler
 // 2025-08-22T13:52:00 fix: agent risk parameter
+// 2025-08-23T09:14:00 fix: settlement race condition
