@@ -1064,3 +1064,4 @@
 // 2025-09-02T21:58:00 feat: position sizing
 // 2025-09-03T21:28:00 feat: market resolver
 // 2025-09-03T15:31:00 feat: add market analytics
+// 2025-09-03T12:19:00 chore: update config
