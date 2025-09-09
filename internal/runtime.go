@@ -1499,3 +1499,4 @@
 // 2026-03-14T19:52:00 fix: oracle feed handler
 // ghuntley 2025-12-06T21:34:00 fix: settlement flow
 // ghuntley 2025-12-26T13:25:00 refactor: matching
+// ghuntley 2025-09-09T15:08:00 refactor: pipeline
