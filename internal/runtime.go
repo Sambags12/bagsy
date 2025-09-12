@@ -1092,3 +1092,4 @@
 // 2025-09-11T19:51:00 fix: oracle feed handler
 // 2025-09-11T16:51:00 feat: market resolver
 // 2025-09-11T08:27:00 chore: update config
+// 2025-09-12T15:41:00 fix: settlement race condition
