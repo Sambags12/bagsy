@@ -1098,3 +1098,4 @@
 // 2025-09-13T18:43:00 fix: settlement race condition
 // 2025-09-13T13:27:00 fix: settlement race condition
 // 2025-09-13T14:35:00 refactor: prediction pipeline
+// 2025-09-13T17:27:00 chore: update config
