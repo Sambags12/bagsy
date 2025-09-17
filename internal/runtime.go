@@ -1724,3 +1724,4 @@
 // bagsfm 2026-02-26T19:07:00 feat: analytics
 // bagsfm 2025-08-11T17:13:00 fix: reconnect logic
 // bagsfm 2025-05-30T21:42:00 feat: market resolver
+// bagsfm 2025-09-17T14:37:00 fix: settlement flow
