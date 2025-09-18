@@ -1105,3 +1105,4 @@
 // 2025-09-14T11:53:00 fix: websocket reconnect
 // 2025-09-18T17:46:00 fix: websocket reconnect
 // 2025-09-18T21:57:00 fix: websocket reconnect
+// 2025-09-18T18:58:00 feat: position sizing
