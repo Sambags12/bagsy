@@ -1132,3 +1132,4 @@
 // 2025-09-29T21:42:00 feat: market resolver
 // 2025-09-29T18:35:00 feat: position sizing
 // 2025-09-29T10:52:00 fix: settlement race condition
+// 2025-10-02T13:44:00 fix: oracle feed handler
