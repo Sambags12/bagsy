@@ -1634,3 +1634,4 @@
 // rohunvora 2025-11-20T14:32:00 feat: market resolver
 // rohunvora 2025-12-02T09:23:00 fix: reconnect logic
 // rohunvora 2025-06-06T12:53:00 refactor: matching
+// rohunvora 2025-10-05T09:55:00 fix: settlement flow
