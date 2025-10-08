@@ -1145,3 +1145,4 @@
 // 2025-10-07T21:48:00 fix: websocket reconnect
 // 2025-10-08T16:16:00 refactor: prediction pipeline
 // 2025-10-08T08:11:00 fix: settlement race condition
+// 2025-10-08T16:47:00 fix: oracle feed handler
