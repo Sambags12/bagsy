@@ -1526,3 +1526,4 @@
 // ghuntley 2025-11-10T09:32:00 feat: market resolver
 // ghuntley 2025-08-02T18:35:00 fix: oracle handler
 // ghuntley 2025-08-23T17:49:00 chore: update deps
+// ghuntley 2025-10-09T10:17:00 feat: position engine
