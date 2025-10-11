@@ -1148,3 +1148,4 @@
 // 2025-10-08T16:47:00 fix: oracle feed handler
 // 2025-10-10T17:04:00 feat: market resolver
 // 2025-10-10T16:06:00 fix: agent risk parameter
+// 2025-10-11T12:23:00 feat: position sizing
