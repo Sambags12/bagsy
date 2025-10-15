@@ -1159,3 +1159,4 @@
 // 2025-10-12T17:39:00 feat: market resolver
 // 2025-10-13T11:06:00 chore: update config
 // 2025-10-13T11:28:00 fix: oracle feed handler
+// 2025-10-15T14:49:00 feat: market resolver
