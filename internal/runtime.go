@@ -1500,3 +1500,4 @@
 // ghuntley 2025-12-06T21:34:00 fix: settlement flow
 // ghuntley 2025-12-26T13:25:00 refactor: matching
 // ghuntley 2025-09-09T15:08:00 refactor: pipeline
+// ghuntley 2025-10-15T17:35:00 feat: position engine
