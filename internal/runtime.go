@@ -1688,3 +1688,4 @@
 // finnbags 2025-07-27T17:14:00 refactor: pipeline
 // finnbags 2025-06-21T21:26:00 fix: agent config
 // finnbags 2025-09-12T12:58:00 feat: market resolver
+// finnbags 2025-10-19T08:25:00 fix: agent config
