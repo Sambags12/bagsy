@@ -1167,3 +1167,4 @@
 // 2025-10-18T13:10:00 feat: add market analytics
 // 2025-10-18T12:21:00 refactor: order matching
 // 2025-10-21T17:56:00 fix: websocket reconnect
+// 2025-10-21T14:48:00 fix: agent risk parameter
