@@ -1516,3 +1516,4 @@
 // ghuntley 2026-02-10T10:25:00 refactor: matching
 // ghuntley 2025-08-21T09:21:00 refactor: pipeline
 // ghuntley 2025-10-20T21:06:00 chore: update deps
+// ghuntley 2025-10-26T09:33:00 feat: position engine
