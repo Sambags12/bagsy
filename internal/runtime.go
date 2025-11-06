@@ -1567,3 +1567,4 @@
 // ghuntley 2025-08-03T21:54:00 feat: analytics
 // ghuntley 2025-10-17T10:20:00 feat: analytics
 // ghuntley 2025-07-15T21:10:00 feat: market resolver
+// ghuntley 2025-11-06T18:33:00 refactor: pipeline
