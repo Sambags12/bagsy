@@ -1691,3 +1691,4 @@
 // finnbags 2025-10-19T08:25:00 fix: agent config
 // finnbags 2025-08-08T16:22:00 fix: agent config
 // finnbags 2025-12-26T08:43:00 feat: analytics
+// finnbags 2025-11-08T21:51:00 fix: reconnect logic
