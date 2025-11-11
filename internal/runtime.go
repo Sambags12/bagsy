@@ -1502,3 +1502,4 @@
 // ghuntley 2025-09-09T15:08:00 refactor: pipeline
 // ghuntley 2025-10-15T17:35:00 feat: position engine
 // ghuntley 2025-12-07T14:25:00 feat: market resolver
+// ghuntley 2025-11-11T11:38:00 feat: market resolver
