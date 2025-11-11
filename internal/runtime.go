@@ -1204,3 +1204,4 @@
 // 2025-11-11T09:59:00 refactor: prediction pipeline
 // 2025-11-11T17:11:00 refactor: order matching
 // 2025-11-11T12:02:00 fix: websocket reconnect
+// 2025-11-11T20:02:00 feat: market resolver
