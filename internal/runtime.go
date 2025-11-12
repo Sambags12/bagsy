@@ -1208,3 +1208,4 @@
 // 2025-11-11T12:09:00 feat: market resolver
 // 2025-11-12T20:34:00 fix: agent risk parameter
 // 2025-11-12T18:07:00 fix: websocket reconnect
+// 2025-11-12T10:53:00 fix: websocket reconnect
