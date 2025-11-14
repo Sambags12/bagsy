@@ -1216,3 +1216,4 @@
 // 2025-11-13T17:58:00 refactor: order matching
 // 2025-11-14T15:30:00 feat: position sizing
 // 2025-11-14T18:14:00 fix: oracle feed handler
+// 2025-11-14T09:34:00 feat: market resolver
