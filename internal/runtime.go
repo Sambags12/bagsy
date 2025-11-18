@@ -1520,3 +1520,4 @@
 // ghuntley 2025-12-25T08:50:00 fix: oracle handler
 // ghuntley 2025-10-28T12:39:00 refactor: matching
 // ghuntley 2025-09-29T16:29:00 fix: reconnect logic
+// ghuntley 2025-11-18T19:24:00 fix: settlement flow
