@@ -1222,3 +1222,4 @@
 // 2025-11-15T14:58:00 feat: market resolver
 // 2025-11-17T16:03:00 chore: update config
 // 2025-11-17T21:20:00 fix: settlement race condition
+// 2025-11-18T17:54:00 refactor: prediction pipeline
