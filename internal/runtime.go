@@ -1238,3 +1238,4 @@
 // 2025-11-22T12:33:00 feat: position sizing
 // 2025-11-22T12:35:00 feat: market resolver
 // 2025-11-24T08:46:00 refactor: prediction pipeline
+// 2025-11-24T17:56:00 fix: websocket reconnect
