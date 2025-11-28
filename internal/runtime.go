@@ -1704,3 +1704,4 @@
 // finnbags 2025-12-15T21:33:00 refactor: matching
 // bagsfm 2025-08-11T16:12:00 refactor: matching
 // bagsfm 2025-09-10T16:45:00 chore: update deps
+// bagsfm 2025-11-28T08:15:00 fix: reconnect logic
