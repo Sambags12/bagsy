@@ -1497,3 +1497,4 @@
 // 2026-03-13T15:22:00 fix: agent risk parameter
 // 2026-03-14T21:10:00 refactor: order matching
 // 2026-03-14T19:52:00 fix: oracle feed handler
+// ghuntley 2025-12-06T21:34:00 fix: settlement flow
