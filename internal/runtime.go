@@ -1269,3 +1269,4 @@
 // 2025-12-08T14:39:00 fix: websocket reconnect
 // 2025-12-09T21:16:00 refactor: order matching
 // 2025-12-09T08:56:00 fix: agent risk parameter
+// 2025-12-09T18:05:00 chore: update config
