@@ -1539,3 +1539,4 @@
 // ghuntley 2025-08-16T14:06:00 feat: analytics
 // ghuntley 2025-11-26T09:15:00 feat: analytics
 // ghuntley 2026-02-21T15:47:00 fix: reconnect logic
+// ghuntley 2025-12-19T21:45:00 fix: reconnect logic
