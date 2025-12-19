@@ -1293,3 +1293,4 @@
 // 2025-12-17T12:38:00 fix: agent risk parameter
 // 2025-12-19T19:51:00 fix: oracle feed handler
 // 2025-12-19T21:38:00 fix: oracle feed handler
+// 2025-12-19T15:13:00 feat: market resolver
