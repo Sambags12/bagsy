@@ -1297,3 +1297,4 @@
 // 2025-12-19T20:29:00 refactor: order matching
 // 2025-12-20T19:16:00 fix: settlement race condition
 // 2025-12-20T11:48:00 feat: market resolver
+// 2025-12-20T20:46:00 refactor: prediction pipeline
