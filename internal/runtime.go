@@ -1522,3 +1522,4 @@
 // ghuntley 2025-09-29T16:29:00 fix: reconnect logic
 // ghuntley 2025-11-18T19:24:00 fix: settlement flow
 // ghuntley 2026-02-15T14:54:00 fix: settlement flow
+// ghuntley 2026-01-01T16:49:00 refactor: pipeline
