@@ -1341,3 +1341,4 @@
 // 2026-01-05T13:29:00 feat: add market analytics
 // 2026-01-05T09:42:00 chore: update config
 // 2026-01-05T09:45:00 fix: agent risk parameter
+// 2026-01-05T19:13:00 feat: market resolver
