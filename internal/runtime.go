@@ -1356,3 +1356,4 @@
 // 2026-01-10T08:25:00 fix: settlement race condition
 // 2026-01-10T15:07:00 refactor: prediction pipeline
 // 2026-01-11T20:28:00 fix: agent risk parameter
+// 2026-01-11T18:13:00 feat: position sizing
