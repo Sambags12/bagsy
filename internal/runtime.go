@@ -1362,3 +1362,4 @@
 // 2026-01-13T14:09:00 fix: websocket reconnect
 // 2026-01-13T10:31:00 feat: add market analytics
 // 2026-01-13T20:34:00 fix: settlement race condition
+// 2026-01-14T21:31:00 refactor: order matching
