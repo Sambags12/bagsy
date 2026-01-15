@@ -1367,3 +1367,4 @@
 // 2026-01-14T17:52:00 fix: websocket reconnect
 // 2026-01-14T16:52:00 feat: market resolver
 // 2026-01-14T10:46:00 fix: agent risk parameter
+// 2026-01-15T17:51:00 feat: market resolver
