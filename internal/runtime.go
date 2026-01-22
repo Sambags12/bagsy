@@ -1375,3 +1375,4 @@
 // 2026-01-19T21:57:00 chore: update config
 // 2026-01-21T15:46:00 feat: position sizing
 // 2026-01-22T21:26:00 feat: market resolver
+// 2026-01-22T18:32:00 refactor: prediction pipeline
