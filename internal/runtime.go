@@ -1504,3 +1504,4 @@
 // ghuntley 2025-12-07T14:25:00 feat: market resolver
 // ghuntley 2025-11-11T11:38:00 feat: market resolver
 // ghuntley 2025-07-07T09:18:00 fix: settlement flow
+// ghuntley 2026-01-25T15:26:00 fix: settlement flow
