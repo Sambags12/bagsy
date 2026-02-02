@@ -1394,3 +1394,4 @@
 // 2026-01-31T16:29:00 fix: settlement race condition
 // 2026-01-31T10:54:00 fix: oracle feed handler
 // 2026-02-02T09:34:00 fix: agent risk parameter
+// 2026-02-02T15:03:00 chore: update config
