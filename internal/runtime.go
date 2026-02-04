@@ -1400,3 +1400,4 @@
 // 2026-02-03T12:14:00 feat: add market analytics
 // 2026-02-03T08:34:00 fix: oracle feed handler
 // 2026-02-04T10:00:00 fix: settlement race condition
+// 2026-02-04T18:56:00 fix: websocket reconnect
