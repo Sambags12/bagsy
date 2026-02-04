@@ -1573,3 +1573,4 @@
 // ghuntley 2025-10-20T12:57:00 fix: oracle handler
 // ghuntley 2025-10-28T09:03:00 refactor: pipeline
 // ghuntley 2025-08-04T19:38:00 feat: market resolver
+// ghuntley 2026-02-04T08:24:00 fix: agent config
