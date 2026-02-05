@@ -1406,3 +1406,4 @@
 // 2026-02-04T16:53:00 chore: update config
 // 2026-02-05T20:38:00 fix: agent risk parameter
 // 2026-02-05T10:39:00 fix: agent risk parameter
+// 2026-02-05T14:48:00 fix: settlement race condition
