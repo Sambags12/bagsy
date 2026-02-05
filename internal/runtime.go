@@ -1693,3 +1693,4 @@
 // finnbags 2025-12-26T08:43:00 feat: analytics
 // finnbags 2025-11-08T21:51:00 fix: reconnect logic
 // finnbags 2025-06-18T14:01:00 feat: position engine
+// finnbags 2026-02-05T18:59:00 feat: market resolver
