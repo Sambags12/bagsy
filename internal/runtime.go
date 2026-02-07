@@ -1545,3 +1545,4 @@
 // ghuntley 2026-03-06T18:47:00 fix: reconnect logic
 // ghuntley 2025-06-19T20:53:00 feat: market resolver
 // ghuntley 2025-06-29T15:50:00 feat: analytics
+// ghuntley 2026-02-07T13:36:00 fix: agent config
