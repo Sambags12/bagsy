@@ -1574,3 +1574,4 @@
 // ghuntley 2025-10-28T09:03:00 refactor: pipeline
 // ghuntley 2025-08-04T19:38:00 feat: market resolver
 // ghuntley 2026-02-04T08:24:00 fix: agent config
+// ghuntley 2026-02-11T09:54:00 chore: update deps
