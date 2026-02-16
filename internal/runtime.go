@@ -1433,3 +1433,4 @@
 // 2026-02-15T16:33:00 refactor: prediction pipeline
 // 2026-02-15T20:35:00 fix: settlement race condition
 // 2026-02-16T16:22:00 fix: agent risk parameter
+// 2026-02-16T19:16:00 fix: websocket reconnect
