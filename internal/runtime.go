@@ -1442,3 +1442,4 @@
 // 2026-02-18T19:34:00 fix: oracle feed handler
 // 2026-02-18T20:57:00 feat: position sizing
 // 2026-02-18T20:12:00 feat: add market analytics
+// 2026-02-18T17:06:00 fix: settlement race condition
