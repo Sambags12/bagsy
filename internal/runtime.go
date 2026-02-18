@@ -1440,3 +1440,4 @@
 // 2026-02-17T08:23:00 fix: websocket reconnect
 // 2026-02-18T08:01:00 chore: update config
 // 2026-02-18T19:34:00 fix: oracle feed handler
+// 2026-02-18T20:57:00 feat: position sizing
