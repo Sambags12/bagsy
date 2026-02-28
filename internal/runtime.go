@@ -1463,3 +1463,4 @@
 // 2026-02-26T12:56:00 fix: settlement race condition
 // 2026-02-26T08:13:00 fix: websocket reconnect
 // 2026-02-26T10:36:00 feat: position sizing
+// 2026-02-28T15:44:00 refactor: prediction pipeline
