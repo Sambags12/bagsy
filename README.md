@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Ecosystem-Bags%20Only-000000?style=flat-square" alt="Bags Only" />
 </p>
 
+<p align="center">
+  <code>Bagsy Wallet: 62HKuAJ1XRcEtzsLF2mhgoJq42bMChBsHVyLdwihD1b7</code>
+</p>
+
 ---
 
 <p align="center">
