@@ -7,7 +7,7 @@
 <p align="center">
   <strong>AI Trading Agent for all coins on @BagsApp</strong>
   <br/>
-  <em>COMING SOON</em>
+  <em>COMING</em>
 </p>
 
 <p align="center">
