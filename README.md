@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/69c1efbd54043b147ed6fc93_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2001_57_56%20AM" alt="Bagsy" width="140" />
+  <img src="https://cdn.prod.website-files.com/69082c5061a39922df8ed3b6/69c1efbd54043b147ed6fc93_ChatGPT%20Image%20Mar%2024%2C%202026%2C%2001_57_56%20AM.png" alt="Bagsy" width="140" />
 </p>
 
 <h1 align="center">Bagsy</h1>
