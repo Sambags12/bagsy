@@ -22,6 +22,16 @@
   <code>Bagsy Wallet: 62HKuAJ1XRcEtzsLF2mhgoJq42bMChBsHVyLdwihD1b7</code>
 </p>
 
+<p align="center">
+  <code>Contract Address: 57YgUStRWXbs2mrGXjJeaMZLDPZUYjMsBXmkZ91LBAGS</code>
+</p>
+
+<p align="center">
+  <a href="https://bags.fm/57YgUStRWXbs2mrGXjJeaMZLDPZUYjMsBXmkZ91LBAGS">
+    <img src="https://img.shields.io/badge/%24BAGSY-Live%20on%20Bags-000000?style=for-the-badge" alt="$BAGSY on Bags" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
